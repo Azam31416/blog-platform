@@ -47,6 +47,7 @@ function Login(){
 					Login
 				</button>
 			</form>
+			<br/>
 			<div> NOTE: Please register before logging in</div>
 			<br/>
 			<Link to="/register" className="btn btn-primary mb-3">
