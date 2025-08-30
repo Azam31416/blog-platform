@@ -51,6 +51,7 @@ function Login(){
 			<Link to="/register" className="btn btn-primary mb-3">
 				Register
 			</Link>
+		<div>NOTE: Please register before logging in</div>
 		</div>		
 	);
 };
